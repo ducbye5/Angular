@@ -26,6 +26,7 @@
               "src/styles.css",
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "./node_modules/font-awesome/css/font-awesome.css",
+              "./src/assets/pe-icon-7s-stroke/pe-icon-7-stroke.css",
               "./node_modules/owl-carousel/owl-carousel/owl.carousel.css",
               "./node_modules/owl-carousel/owl-carousel/owl.theme.css",
             ],
